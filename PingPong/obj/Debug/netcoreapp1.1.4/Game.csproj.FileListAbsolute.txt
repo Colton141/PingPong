@@ -1,0 +1,3 @@
+/Users/Guest/Desktop/Ping.Pong/Game/bin/Debug/netcoreapp1.1.4/Game.deps.json
+/Users/Guest/Desktop/Ping.Pong/Game/obj/Debug/netcoreapp1.1.4/Game.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Ping.Pong/Game/obj/Debug/netcoreapp1.1.4/Game.AssemblyInfo.cs
